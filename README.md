@@ -31,14 +31,16 @@ I am a Computer Science & Engineering graduate specializing in data analytics, m
 
 ---
 
+---
+
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Alif Al Fahim)
-[![Portfolio](https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_WEBSITE_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alif-al-fahim)
 
 ---
 
 ### 📊 GitHub Analytics
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alif-Al-Fahim&show_icons=true&theme=nord&hide_border=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alif-Al-Fahim&layout=compact&theme=nord&hide_border=true)
