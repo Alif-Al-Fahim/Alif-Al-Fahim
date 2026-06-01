@@ -35,7 +35,7 @@ I am a Computer Science & Engineering graduate specializing in data analytics, m
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alif-al-fahim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alif-al-fahim-505008326/)
 
 ---
 
